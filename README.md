@@ -1,1 +1,2 @@
-# DryMangosite
+# drymangomediasite
+ website for drymango media
